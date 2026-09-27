@@ -1,9 +1,7 @@
-# PROJETO-APLICADO-IV
-Projeto Aplicado desenvolvido na Universidade Presbiteriana Mackenzie
 
 ---
 # **PREVISÃO DE CASOS DE ARBOVIROSES E DEMANDA HOSPITALAR BASEADA EM CLIMA E SAZONALIDADE NO RIO DE JANEIRO**
----
+Projeto Aplicado desenvolvido na Universidade Presbiteriana Mackenzie
 
 # **Identificação do Grupo**
 
