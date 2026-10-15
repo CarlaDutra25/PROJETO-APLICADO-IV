@@ -17,5 +17,5 @@ Este projeto propõe um produto analítico preditivo para apoiar a gestão hospi
 
 
 # **Confira o projeto completo:**
-- https://github.com/CarlaDutra25/PROJETO-APLICADO-IV/blob/main/projeto_aplicado_IV_grupo_15.ipynb
+- https://github.com/CarlaDutra25/PROJETO-APLICADO-IV/blob/main/projeto_aplicado_IV_grupo_15.ipynb](https://github.com/CarlaDutra25/PROJETO-APLICADO-IV/blob/main/projeto_aplicado_IV_grupo_15_2.0.ipynb
   
