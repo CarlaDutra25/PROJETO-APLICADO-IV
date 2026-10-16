@@ -5,6 +5,8 @@ Projeto Aplicado desenvolvido na Universidade Presbiteriana Mackenzie
 # **Identificação do Grupo**
 
 - Carla de Jesus Dutra Paula, 10414811
+- Gustavo Bovo Albertini, XXXXXXXX
+- Lucas José de Carvalho Anastacio, XXXXXXXX
 
 
 # **Resumo**
