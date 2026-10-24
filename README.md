@@ -5,8 +5,7 @@ Projeto Aplicado desenvolvido na Universidade Presbiteriana Mackenzie
 # **Identificação do Grupo**
 
 - Carla de Jesus Dutra Paula, 10414811
-- Gustavo Bovo Albertini, XXXXXXXX
-- Lucas José de Carvalho Anastacio, XXXXXXXX
+- Lucas José de Carvalho Anastacio, 10441680
 
 
 # **Resumo**
@@ -16,4 +15,3 @@ Este projeto propõe um produto analítico preditivo para apoiar a gestão hospi
 
 # **Confira o projeto completo:**
 - https://github.com/CarlaDutra25/PROJETO-APLICADO-IV/blob/main/projeto_aplicado_IV_grupo_15_2.0.ipynb
-  
